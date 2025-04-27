@@ -1,0 +1,6 @@
+context_window: 32000
+llm_model: "gemma3:4b"
+verifier_model: "llama3.2:3b"
+debator_model: "llama3.2:3b"
+summarizer_model: "llama3.2:3b"
+judge_model: "llama3.2:3b"
